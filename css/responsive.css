@@ -1,0 +1,17 @@
+/*Responsive Design*/
+
+/*Phone*/
+
+@media (max-width: 640px) {
+    html {
+        font-size: 10px;
+    }
+}
+
+/*Tablets*/
+
+@media ((min-width: 641px) and (max-width:1007px)) {
+    html {
+        font-size: 13px;
+    }
+}
